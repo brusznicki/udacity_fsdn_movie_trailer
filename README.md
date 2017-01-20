@@ -7,7 +7,7 @@ Entertainment Center takes a list of your favorite films and rapidly builds a fa
 
 This project requires that you have a few third party packages installed.
 
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
+- Clone the repo: `git@github.com:brusznicki/udacity_fsdn_movie_trailer.git`
 - Install [Fresh Tomatoes](https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py)
 - Install with [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): `pip install beautifulsoup or easy_install beautifulsoup`
 - Make sure fresh_tomatoes.py, media.py, and entertainment_center.py are all installed in the same directory
